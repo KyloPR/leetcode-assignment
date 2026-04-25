@@ -40,8 +40,7 @@ Folder: `medium/002_add_two_numbers.cpp`
 Folder: `medium/003_longest_substring_without_repeating_characters.cpp`
 
 ## 🎥 Video Explanation (10 Minutes)
-A YouTube link will be added here once the video is recorded.
-
+https://www.youtube.com/watch?v=uGIdoKlTA3o
 ---
 
 ## 📌 Notes
