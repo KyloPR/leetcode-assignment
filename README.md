@@ -39,17 +39,6 @@ Folder: `medium/002_add_two_numbers.cpp`
 **LeetCode #3**  
 Folder: `medium/003_longest_substring_without_repeating_characters.cpp`
 
----
-
-## ⭐ Optional Hard Problem (Bonus)
-(Not required for the assignment, but can be added if completed.)
-
-### Median of Two Sorted Arrays  
-**LeetCode #4**  
-Folder: `hard/004_median_of_two_sorted_arrays.cpp`
-
----
-
 ## 🎥 Video Explanation (10 Minutes)
 A YouTube link will be added here once the video is recorded.
 
