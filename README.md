@@ -1,4 +1,3 @@
-# leetcode-assignment
 # LeetCode Assignment
 
 ## Easy Problems
